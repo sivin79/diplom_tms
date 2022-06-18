@@ -1,20 +1,22 @@
-# my_flask_app
-my repo for my application on flask
+# Description of my graduation project TMS
 
 
-### Build container
+### The scheme working of the application
 
-> docker build -t my_flask_app:v0.1 .
-
-
-### Run docker container
-
-> docker run -d -ti --name my_flask_app -p 5000:5000 -v $PWD:/my_flask_app sivin79/my_flask_app
-
-`$PWD folder with config`
-
-> docker run -d -ti --name my_flask_app -p 5000:5000 -v /APP_FOLDER:/my_flask_app my_flask_app:v0.1
-
-117
+![Application scheme](https://github.com/sivin79/diplom_tms/images/chema-works.png)
 
 
+### The scheme of working of the infrastructure
+
+![Infra scheme](https://github.com/sivin79/diplom_tms/images/chema-infra_1.png)
+
+### Creating infrastructure:
+
+![Infrastrucure](https://github.com/sivin79/diplom_tms/images/chema-infra_1.png)
+
+
+You can see how to creat infresructure in [infra](https://github.com/sivin79/infra_diplom) repo
+
+### The scheme of updating the APP
+
+![Update APP](https://github.com/sivin79/diplom_tms/images/update_APP.png)
