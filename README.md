@@ -12,7 +12,7 @@
 
 ### Creating infrastructure:
 
-![Infrastrucure](https://github.com/sivin79/diplom_tms/blob/main/images/chema-infra_1.png)
+![Infrastrucure](https://github.com/sivin79/diplom_tms/blob/main/images/create-infrastructure.png)
 
 
 You can see how to creat infresructure in [infra](https://github.com/sivin79/infra_diplom) repo
