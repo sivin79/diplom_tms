@@ -21,7 +21,21 @@
 
 ![Update APP](https://github.com/sivin79/diplom_tms/blob/main/images/update_APP.png)
 
+### About my APP
+## My app is Flask-Blog
+![start page](https://github.com/sivin79/diplom_tms/blob/main/images/start_page.png)
+
+## You can creating posts
+
+![Create post](https://github.com/sivin79/diplom_tms/blob/main/images/create_post.png)
+
+## You can edit posts
+
+![edit post](https://github.com/sivin79/diplom_tms/blob/main/images/edit_post.png)
+
+
 
 ## In folder boto you can see some useful scripts for working with RDS
 
-### __create-all.py__ - create RDS, database _posts_ and structure
+> __create-all.py__ - create RDS, database _posts_ and structure (table) db
+
