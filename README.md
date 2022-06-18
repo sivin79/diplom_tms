@@ -15,7 +15,7 @@
 ![Infrastrucure](https://github.com/sivin79/diplom_tms/blob/main/images/create-infrastructure.png)
 
 
-### You can see how to creat infresructure in [this my repo](https://github.com/sivin79/infra_diplom)
+### You can see how to creat infrasructure in [this my repo](https://github.com/sivin79/infra_diplom)
 
 ### The scheme of updating the APP
 

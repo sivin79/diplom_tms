@@ -78,8 +78,8 @@ try:
 except Exception as e:
     print("Creatin table failed due to {}".format(e))
 
-command = 'curl -X POST https://api.telegram.org/bot5086116409:AAFqEqrCavT7OAF5qYjIdBHg40Ra35rCvlY/sendMessage -d \
-    chat_id=5195427686 -d \
+command = 'curl -X POST https://api.telegram.org/bot$BotToken/sendMessage -d \
+    chat_id=$ChatId -d \
     text="{} is ready"'.format(db_identifier)
 os.system(command)
 print(db_identifier, "is ready.")
