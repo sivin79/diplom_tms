@@ -22,3 +22,6 @@
 ![Update APP](https://github.com/sivin79/diplom_tms/blob/main/images/update_APP.png)
 
 
+## In folder boto you can see some useful scripts for working with RDS
+
+### __create-all.py__ - create RDS, database _posts_ and structure
