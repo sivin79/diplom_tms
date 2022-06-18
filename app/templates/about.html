@@ -1,0 +1,10 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h1>{% block title %} This is my FlaskBlog! {% endblock %}</h1>
+<br>
+<h3>Created by Vasili! </h3>
+<h3>Version 1.1.0</h3>
+<h3>IP client = {{ client_ip }}</h3>
+<h3>DB_HOST = {{ HOST }}</h3>
+{% endblock %}
